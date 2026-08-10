@@ -1,4 +1,5 @@
 # kdcr-content-vs-structure
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21878421.svg)](https://doi.org/10.5281/zenodo.21878421)
 
 Code, scripts, and summary result tables for:
 
@@ -137,4 +138,4 @@ NCBI taxonomy, RefSeq, and SRA data are public and are not redistributed here.
 ## Citation
 
 If you use this code, please cite the manuscript above. A permanent DOI for this exact
-repository snapshot is provided by Zenodo (link to be added once minted).
+repository snapshot is provided by Zenodo: [10.5281/zenodo.21878421](https://doi.org/10.5281/zenodo.21878421).

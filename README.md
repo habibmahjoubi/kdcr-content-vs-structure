@@ -5,7 +5,6 @@ Code, scripts, and summary result tables for:
 
 > Mahjoubi H. **Structural Change Is Not Impact: Why Reference-Artifact Diffs Fail to
 > Scope Regression Testing, with a Bioinformatics Case Study.** Submitted for publication.
-> Preprint DOI: *to be added once minted*.
 
 A companion technical note derived from part of this study's positive-control panel is
 published separately:

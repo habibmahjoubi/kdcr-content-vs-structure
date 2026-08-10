@@ -1,0 +1,57 @@
+accession,taxid,description,n_reads_simulated,pct_before_any,pct_before_correct,pct_after_any,pct_after_correct,total_before,total_after
+NC_023295.1,3241188,"Apricot vein clearing associated virus complete genome, isolate VC",5000,0.32,0.0,100.0,100.0,5000,5000
+NC_034381.1,2870378,"Miniopterus schreibersii picornavirus 1, complete genome",5000,6.88,0.0,100.0,100.0,5000,5000
+NC_033476.1,2849745,"Botryosphaeria dothidea virus 1 strain YZN115 RNA-dependent RNA polymerase (RdRp) gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_033477.1,2849745,"Botryosphaeria dothidea virus 1 strain YZN115 segment RNA2 hypothetical protein gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_033494.1,2849745,"Botryosphaeria dothidea virus 1 strain YZN115 segment RNA3 hypothetical protein gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_033495.1,2849745,"Botryosphaeria dothidea virus 1 strain YZN115 segment RNA4 hypothetical protein gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_033496.1,2849745,"Botryosphaeria dothidea virus 1 strain YZN115 segment RNA5 hypothetical protein gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_034617.1,2870375,"Harrier picornavirus 1 strain harrier/MR-01/HUN/2014, complete genome",5000,2.54,0.0,100.0,100.0,5000,5000
+NC_022332.1,2870364,"Eel picornavirus 1 strain F15/05, complete genome",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_026470.1,2870348,"African bat icavirus A isolate PREDICT-06105, complete genome",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_017859.1,3158378,"American hop latent virus, complete genome",5000,0.7,0.0,100.0,100.0,5000,5000
+NC_010314.1,3158377,"Abaca bunchy top virus DNA-N, complete genome",5000,1.16,0.0,100.0,100.0,5000,5000
+NC_010315.1,3158377,"Abaca bunchy top virus segment 2, complete sequence",5000,1.4,0.0,99.98,99.98,5000,5000
+NC_010316.1,3158377,"Abaca bunchy top virus DNA-S, complete genome",5000,27.08,0.0,100.0,100.0,5000,5000
+NC_010317.1,3158377,"Abaca bunchy top virus DNA-M, complete genome",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_010318.1,3158377,"Abaca bunchy top virus DNA-C, complete sequence",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_010319.1,3158377,"Abaca bunchy top virus DNA-R, complete genome",5000,40.3,0.0,100.0,100.0,5000,5000
+NC_016404.1,3240218,"Actinidia virus B, complete genome",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_001921.1,3139435,"Canine distemper virus, complete genome",5000,5.02,0.0,100.0,100.0,5000,5000
+AC_000009.1,3241440,"Porcine adenovirus C, complete genome",5000,100.0,0.0,100.0,100.0,5000,5000
+NC_039041.1,2847277,"Rusa timorensis papillomavirus type 1 isolate IZW 39/08, complete genome",5000,0.72,0.0,100.0,100.0,5000,5000
+NC_023162.1,2870354,"Carp picornavirus 1 isolate F37/06, complete genome",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_043087.1,3240217,"Actinidia virus A isolate TP7-93A putative replicase (ORF1) gene, partial cds; and hypothetical protein (ORF2), movement protein (ORF3), coat protein (ORF4), and RNA-binding protein (ORF5) genes, complete cds",5000,1.84,0.0,100.0,100.0,5000,5000
+NC_043137.1,3240722,"Amazon lily mosaic virus NIb/CP gene for nuclear inclusion protein b/coat protein, partial cds",5000,60.62,0.0,100.0,100.0,5000,5000
+NC_043423.1,3240558,"Malva vein clearing virus partial polyprotein precursor, isolate DS-Ba-01",5000,28.46,0.0,100.0,100.0,5000,5000
+NC_043537.1,3240745,"African eggplant mosaic virus isolate 2013-281, complete genome",5000,15.56,0.0,100.0,100.0,5000,5000
+NC_040611.1,3121209,"Hedgehog dicipivirus strain hedgehog/H14/2015/HUN, complete genome",5000,4.14,0.0,100.0,100.0,5000,5000
+NC_001989.1,3136119,"Bovine orthopneumovirus, complete genome",5000,100.0,0.0,100.0,100.0,5000,5000
+NC_032105.1,2848082,"Simian mastadenovirus WIV19, complete genome",5000,35.9,0.0,100.0,100.0,5000,5000
+NC_055108.1,2848036,"Poecivirus BCCH-449 polyprotein gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_019444.1,3126011,"Synechococcus phage S-MbCM6, complete genome",5000,49.68,0.0,100.0,99.74,5000,5000
+NC_055003.1,2847818,"Lactococcus phage vB_Llc_bIBB12, complete genome",5000,100.0,0.0,100.0,73.92,5000,5000
+NC_048148.1,2848038,"Providencia phage vB PstP PS3, complete genome",5000,5.88,0.0,100.0,100.0,5000,5000
+NC_073761.1,3071296,"Spiroplasma phage SVGII3, complete genome",5000,2.02,0.0,99.2,99.2,5000,5000
+NC_077218.1,2849721,"Daphnia iridovirus 1 genome assembly, chromosome: 1",5000,0.04,0.0,100.0,100.0,5000,5000
+NC_075965.1,3241439,"Porcine mastadenovirus B isolate HNU1, complete genome",5000,14.28,0.0,100.0,100.0,5000,5000
+NC_076005.1,2870355,"Chinese broad-headed pond turtle picornavirus 1 strain WHWGC151314 polyprotein (QKJ71_gp1) gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_076508.1,2870356,"Chinese softshell turtle picornavirus 1 strain WHJYGF74978 polyprotein (QKO81_gp1) gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_076015.1,2870402,"Wenling jack mackerels picornavirus strain LXMC375591 polyprotein (QKJ81_gp1) gene, complete cds",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_076627.1,3071315,"Wuhan redfin culter dimarhabodovirus strain DSYS6218 nucleoprotein (QKQ00_gp1), hypothetical protein (QKQ00_gp2), matrix protein (QKQ00_gp3), glycoprotein (QKQ00_gp4), and L protein (QKQ00_gp5) genes, complete cds",5000,2.86,0.0,100.0,100.0,5000,5000
+NC_076204.1,3071284,"Sclerotinia sclerotiorum negative-stranded RNA virus 2-A isolate SsNSRV2-A2, partial genome",5000,0.02,0.0,100.0,100.0,5000,5000
+NC_076965.1,3118716,"Pteropus lylei-associated alphaherpesvirus DNA, complete genome",5000,27.62,0.0,99.82,99.74,5000,5000
+NC_076340.1,2848040,"MAG: Corella adenovirus 1 isolate CorAdV1/Melbourne/2015, complete genome",5000,23.8,0.0,100.0,100.0,5000,5000
+NC_077038.1,3070179,"Bactericera trigonica densovirus, complete genome",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_077074.1,3070825,"Chaphamaparvovirus gyb-MR2/2015/HUN nonstructural protein 1 (QKU55_gp1), nonstructural protein 2 (QKU55_gp2), and capsid protein (QKU55_gp3) genes, complete cds",5000,0.04,0.0,100.0,100.0,5000,5000
+NC_078286.1,2847074,"Carcinus maenas portunibunyavirus 1 isolate RA14048 segment S, complete sequence",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_078287.1,2847074,"Carcinus maenas portunibunyavirus 1 isolate RA14048 segment M, complete sequence",5000,0.04,0.0,100.0,100.0,5000,5000
+NC_078288.1,2847074,"Carcinus maenas portunibunyavirus 1 isolate RA14048 segment L, complete sequence",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_079041.1,3071303,"Surrounding non-legume associated secovirus isolate SNLaSVMuenster_17 segment RNA1, complete sequence",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_079042.1,3071303,"Surrounding non-legume associated secovirus isolate SNLaSV/Muenster_17 segment RNA2, complete sequence",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_078343.1,3118717,Blattodean nairo-related virus OKIAV321 segment S genomic sequence,5000,0.0,0.0,100.0,100.0,5000,5000
+NC_078344.1,3118717,Blattodean nairo-related virus OKIAV321 segment L genomic sequence,5000,0.02,0.0,100.0,100.0,5000,5000
+NC_078345.1,3118717,Blattodean nairo-related virus OKIAV321 segment M genomic sequence,5000,0.0,0.0,100.0,100.0,5000,5000
+NC_079101.1,3071295,"Solanum violifolium ringspot virus isolate Prb1 segment RNA1, complete sequence",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_079102.1,3071295,"Solanum violifolium ringspot virus isolate Prb1 segment RNA2, complete sequence",5000,0.0,0.0,100.0,100.0,5000,5000
+NC_121511.1,3118720,"Salmonella phage SopEPhi, complete sequence",5000,76.74,0.0,100.0,81.18,5000,5000

@@ -1,0 +1,44 @@
+# --- Large, publicly re-derivable data: excluded from this reproducibility repo ---
+# Raw sequencing data (public: NCBI SRA / ENA, BioProject PRJNA1026487)
+data/
+
+# Built Kraken2 databases (regenerable from public RefSeq viral release + NCBI taxdump via scripts/)
+kraken2_dbs/
+kraken2_dbs_fixed/
+kraken2_dbs_msl39_artifact_test/
+
+# Downloaded NCBI taxdump archive snapshots (public: https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/)
+taxdump_archive/
+taxdump_merged/
+taxdump_monthly_2024/
+
+# Raw per-read Kraken2 classification outputs (regenerable from the databases above + scripts/;
+# the small summary CSVs derived from these are kept under results/)
+results/msl*/
+results/current_db/
+results/conf_0.1/
+results/conf_0.5/
+results_fixed/
+results_fixed_large/
+
+# Bulk intermediate working files for large panels (summary CSVs already extracted to results/)
+positive_control_56/
+positive_control_56_covmatched/
+
+# Raw intermediate files for the reparenting panel and position-bias check
+# (manifest.csv / mid_report.txt summaries are kept via explicit exceptions below)
+reparenting_panel/*
+!reparenting_panel/manifest.csv
+position_bias_check/*
+!position_bias_check/mid_report.txt
+
+# Local run logs (machine-specific, not needed for reproducibility)
+logs/
+
+# Python / OS noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+scripts/paperA_figure.py
+results/paperA_figure1.png

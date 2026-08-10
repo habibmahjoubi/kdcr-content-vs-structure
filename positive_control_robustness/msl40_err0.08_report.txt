@@ -1,0 +1,14 @@
+  4.42	221	221	U	0	unclassified
+ 95.58	4779	0	R	1	root
+ 95.58	4779	0	D	10239	  Viruses
+ 95.58	4779	0	D1	2559587	    Riboviria
+ 95.58	4779	0	K	2732396	      Orthornavirae
+ 95.58	4779	0	P	2497569	        Negarnaviricota
+ 95.58	4779	0	P1	2497570	          Haploviricotina
+ 95.58	4779	0	C	2497574	            Monjiviricetes
+ 95.58	4779	0	O	11157	              Mononegavirales
+ 95.58	4779	0	F	11158	                Paramyxoviridae
+ 95.58	4779	0	F1	2560076	                  Orthoparamyxovirinae
+ 95.58	4779	0	G	11229	                    Morbillivirus
+ 95.58	4779	0	S	3052342	                      Morbillivirus canis
+ 95.58	4779	4779	S1	3139435	                        canine distemper virus

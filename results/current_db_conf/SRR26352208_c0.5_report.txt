@@ -1,0 +1,36 @@
+ 96.12	1922343	1922343	U	0	unclassified
+  3.88	77657	0	R	1	root
+  3.88	77657	6	R1	10239	  Viruses
+  2.21	44166	0	R2	2731341	    Duplodnaviria
+  2.21	44166	0	K	2731360	      Heunggongvirae
+  2.21	44166	0	P	2731618	        Uroviricota
+  2.21	44166	0	C	2731619	          Caudoviricetes
+  2.21	44165	2	C1	3424297	            Caudoviricetes incertae sedis
+  2.21	44155	0	G	2560142	              Gorganvirus
+  2.21	44155	0	S	2560650	                Gorganvirus isfahan
+  2.21	44155	44155	S1	1969841	                  Proteus phage VB_PmiS-Isfahan
+  0.00	8	0	G	186789	              Punavirus
+  0.00	8	0	S	10678	                Punavirus P1
+  0.00	8	8	S1	10682	                  Enterobacteria phage P7
+  0.00	1	0	O	3420540	            Autographivirales
+  0.00	1	0	F	3424636	              Autosignataviridae
+  0.00	1	0	F1	2731650	                Molineuxvirinae
+  0.00	1	0	G	542837	                  Zindervirus
+  0.00	1	0	S	194966	                    Zindervirus SP6
+  0.00	1	1	S1	2907955	                      Salmonella phage SP6
+  1.67	33485	0	R2	2731342	    Floreoviria
+  1.67	33480	0	K	2732091	      Sangervirae
+  1.67	33480	0	P	2732412	        Phixviricota
+  1.67	33480	0	C	10841	          Microviricetes
+  1.67	33480	0	O	1910950	            Bullavirales
+  1.67	33480	205	F	3701015	              Eubullaviridae
+  1.66	33275	0	G	1910954	                Sinsheimervirus
+  1.66	33275	0	S	10847	                  Sinsheimervirus phiX174
+  1.66	33275	33275	S1	2886930	                    Escherichia phage phiX174
+  0.00	5	0	K	2732092	      Shotokuvirae
+  0.00	5	0	P	2732415	        Cossaviricota
+  0.00	5	0	C	2732421	          Papovaviricetes
+  0.00	5	0	O	2732532	            Sepolyvirales
+  0.00	5	0	F	151341	              Polyomaviridae
+  0.00	5	0	G	1891714	                Betapolyomavirus
+  0.00	5	5	S	1891767	                  Betapolyomavirus macacae

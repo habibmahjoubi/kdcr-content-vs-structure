@@ -1,0 +1,5 @@
+transition,delta_K_aggregate,total_abs_change_RSV_reads,total_abs_change_REO_reads
+MSL37->MSL38,0.2067,0,0
+MSL38->MSL39,0.54595,0,1
+MSL39->MSL40,0.13104,0,1
+MSL40->MSL41,0.10525,1,0

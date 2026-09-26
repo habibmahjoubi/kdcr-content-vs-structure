@@ -1,0 +1,28 @@
+comparison	category	reads	taxon_before	taxon_after
+official 20210517->20220607	classified reads	1903321	1914869	
+official 20210517->20220607	reassigned	436966	10847 Sinsheimervirus phiX174	2886930 Escherichia phage phiX174
+official 20210517->20220607	reassigned	4315	2500149 Salmonella phage TS13	2759177 Vibrio phage ValB1MD-2
+official 20210517->20220607	reassigned	381	1958907 Staphylococcus phage Andhra	2759177 Vibrio phage ValB1MD-2
+official 20210517->20220607	reassigned	182	320848 Phietavirus pv88	2908115 Staphylococcus phage 88
+official 20210517->20220607	reassigned	172	28883 ?	159150 Shamonda virus
+official 20210517->20220607	reassigned	96	2500149 Salmonella phage TS13	159150 Shamonda virus
+official 20210517->20220607	reassigned	92	2500149 Salmonella phage TS13	28883 ?
+official 20210517->20220607	reassigned	65	2500149 Salmonella phage TS13	10371 Equid gammaherpesvirus 5
+official 20210517->20220607	classified only in 2021	95	1623306 Timquatrovirus	
+official 20210517->20220607	classified only in 2021	72	1922789 Changjiang picorna-like virus 16	
+official 20210517->20220607	classified only in 2021	51	10724 Bacillus phage SPP1	
+official 20210517->20220607	classified only in 2021	37	1299429 Yuavirus	
+official 20210517->20220607	classified only in 2021	36	10371 Equid gammaherpesvirus 5	
+official 20210517->20220607	classified only in 2022	9018	2759177 Vibrio phage ValB1MD-2	
+official 20210517->20220607	classified only in 2022	228	11938 Rauscher murine leukemia virus	
+official 20210517->20220607	classified only in 2022	63	10239 Viruses	
+official 20210517->20220607	classified only in 2022	63	10371 Equid gammaherpesvirus 5	
+official 20210517->20220607	classified only in 2022	49	1608120 Wuhan louse fly virus 6	
+Design 2 msl32->msl33 (non-phiX)	reassigned	149	44561 Murine type C retrovirus	1038068 PreXMRV-1
+Design 2 msl32->msl33 (non-phiX)	reassigned	140	44561 Murine type C retrovirus	153135 Gammaretrovirus
+Design 2 msl32->msl33 (non-phiX)	reassigned	88	353212 Mammalian gammaretrovirus group	153135 Gammaretrovirus
+Design 2 msl32->msl33 (non-phiX)	reassigned	67	353212 Mammalian gammaretrovirus group	1038068 PreXMRV-1
+Design 2 msl32->msl33 (non-phiX)	reassigned	55	353212 Mammalian gammaretrovirus group	11764 Baboon endogenous virus strain M7
+Design 2 msl32->msl33 (non-phiX)	reassigned	28	153135 Gammaretrovirus	1038068 PreXMRV-1
+Design 2 msl32->msl33 (non-phiX)	reassigned	16	180252 Mardivirus	93386 Columbid alphaherpesvirus 1
+Design 2 msl32->msl33 (non-phiX)	reassigned	9	1198136 Tevenvirinae	1913652 Mosigvirus

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Classifies all 9 KDCR case-study runs against each of the 5 per-MSL-version Kraken2
-# databases (msl37-msl41), producing one report per (run, db) pair for the P1/P2 comparison.
+# databases (msl37-msl41), producing one report per (run, db) pair for the version comparison.
 set -euo pipefail
 source ~/miniforge3/etc/profile.d/conda.sh
 conda activate kdcr

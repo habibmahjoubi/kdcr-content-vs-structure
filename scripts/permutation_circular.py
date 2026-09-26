@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""M5 follow-up: the full-permutation null (m5_permutation_joint_null.py) treats the 12
+"""Follow-up: the full-permutation null (permutation_joint_null.py) treats the 12
 transitions as exchangeable, which ignores that they are cumulative and temporally ordered
 (later transitions build on earlier taxonomy states). A circular-shift (cyclic) permutation
 null preserves the response vector's internal temporal structure (autocorrelation, run

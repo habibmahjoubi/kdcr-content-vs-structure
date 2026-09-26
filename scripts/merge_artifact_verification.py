@@ -89,7 +89,7 @@ def main():
     print("DB build complete.")
 
     # 4. classify each artifact accession's existing simulated reads, report correct-classification %
-    out_csv = f"{BASE}/results/m1_artifact_verification.csv"
+    out_csv = f"{BASE}/results/merge_artifact_verification.csv"
     with open(out_csv, "w", newline="") as fout:
         w = csv.writer(fout)
         w.writerow(["accession", "current_taxid", "predecessor_taxid", "n_reads",

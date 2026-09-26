@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""M5: joint permutation null for max|rho| across the family of delta_K_local candidate
+"""Joint permutation null for max|rho| across the family of delta_K_local candidate
 predictors tested against RSV's rank-matched (pre-fixed-library) classification-change
-response in Section 5.3, replacing the prose-only 'exploratory, uncorrected' framing with
+response, replacing the prose-only 'exploratory, uncorrected' framing with
 a quantitative family-wise null.
 
 Three predictors have an actually-computed Spearman rho against RSV at n=12 in the
-manuscript: the aggregate/species-level delta_K (P1's primary test), the descendant-drift
+manuscript: the aggregate/species-level delta_K (primary test), the descendant-drift
 candidate (delta_K_local_formal), and the NCBI-snapshot-based candidate (delta_K_ncbi_viral).
 REO is excluded: its response has zero variance in this dataset (rank-matched), so no
 Spearman correlation is definable for it, exactly as reported in the manuscript.
@@ -26,7 +26,7 @@ pred_descendant = col("results/delta_K_local_formal.csv", "RSV_delta_K_local")
 pred_ncbi_viral = col("results/delta_K_ncbi_vs_ictv_merged.csv", "delta_K_ncbi_viral")
 
 predictors = {
-    "aggregate_delta_K (P1 primary)": pred_aggregate,
+    "aggregate_delta_K (primary)": pred_aggregate,
     "descendant_drift_candidate": pred_descendant,
     "delta_K_ncbi_viral": pred_ncbi_viral,
 }

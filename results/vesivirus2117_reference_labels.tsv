@@ -1,0 +1,66 @@
+accession	version	current_taxid	current_taxid_in_snapshot	design3_label	label_name	route
+NC_004542.1	msl29	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl29	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl29	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl29	1960046	False	182093	unclassified Vesivirus	merged_predecessor
+NC_044938.1	msl29	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl30	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl30	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl30	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl30	1960046	False	182093	unclassified Vesivirus	merged_predecessor
+NC_044938.1	msl30	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl31	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl31	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl31	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl31	1960046	False	182093	unclassified Vesivirus	merged_predecessor
+NC_044938.1	msl31	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl32	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl32	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl32	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl32	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl32	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl33	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl33	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl33	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl33	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl33	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl34	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl34	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl34	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl34	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl34	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl35	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl35	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl35	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl35	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl35	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl36	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl36	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl36	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl36	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl36	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl37	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl37	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl37	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl37	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl37	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl38	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl38	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl38	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl38	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl38	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl39	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl39	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl39	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl39	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl39	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl40	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl40	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl40	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl40	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl40	328614	True	328614	Heliothis virescens ascovirus 3f	current
+NC_004542.1	msl41	1176484	True	1176484	Canine vesivirus	current
+NC_019712.1	msl41	154122	True	154122	Mink calicivirus	current
+NC_025676.1	msl41	1564182	True	1564182	San Miguel sea lion virus 8	current
+NC_034444.1	msl41	1960046	True	1960046	Hom-1 vesivirus	current
+NC_044938.1	msl41	328614	True	328614	Heliothis virescens ascovirus 3f	current

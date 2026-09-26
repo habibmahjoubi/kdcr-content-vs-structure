@@ -1,0 +1,8 @@
+database	reads_in_MRV_clade_all_14_runs
+msl41 (MSL41 content, MSL41 tree)	2
+a (MSL41 content, current tree)	2
+c (MSL41 rebuilt, 2 threads)	2
+b (MSL41+1 content, MSL41 tree)	68
+current (MSL41+1 content, current tree)	68
+d (current rebuilt, 2 threads)	68
+Design 3 MSL41 (complete content, MSL41 labels)	68

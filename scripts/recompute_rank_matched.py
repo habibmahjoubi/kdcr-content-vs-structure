@@ -2,8 +2,7 @@
 """Recompute REO cumulative read counts using a rank-matched target taxid (351073,
 'Mammalian orthoreovirus', a direct child of a species node -- the same tree depth as
 RSV's target 11250, a direct child of 'Orthopneumovirus hominis'). The original REO target
-(10882, genus Orthoreovirus) was two ranks broader than RSV's target, a confound flagged in
-critical review: a genus-level node has mechanically more descendants exposed to taxonomic
+(10882, genus Orthoreovirus) was two ranks broader than RSV's target, a confound: a genus-level node has mechanically more descendants exposed to taxonomic
 churn than a sub-species node, which could alone explain apparent target-dependence without
 any real difference in RSV/REO taxonomic stability.
 """

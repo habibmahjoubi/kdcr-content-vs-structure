@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-"""Compute delta_K directly from consecutive NCBI taxdump nodes.dmp snapshots (reviewer
-point 1.3): predictor and response should be drawn from the same taxonomic source (NCBI),
+"""Compute delta_K directly from consecutive NCBI taxdump nodes.dmp snapshots: predictor and response should be drawn from the same taxonomic source (NCBI),
 since Kraken2 classification is driven by NCBI snapshots, not ICTV MSL records directly
-(the ICTV/NCBI misalignment is documented in §5.6 of the manuscript).
+(ICTV releases are implemented in NCBI with a lag).
 """
 import csv
 import os

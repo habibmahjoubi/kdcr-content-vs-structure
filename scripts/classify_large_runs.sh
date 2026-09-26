@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # A2: classify the 4 large (10M-pair) runs against all 13 fixed-library (confound-controlled)
-# Kraken2 databases, exactly as done for the original 2M-pair runs in §5.3.
+# Kraken2 databases, exactly as done for the original 2M-pair runs.
 set -euo pipefail
 cd ~/kdcr
 mkdir -p results_fixed_large

@@ -1,0 +1,21 @@
+update	taxid_before	name_in_newer_tree	taxid_after	name_after	n_reads
+msl30->msl31	489828	Enterobacteria phage WA13 sensu lato	1910951	Alpha3microvirus	6781
+msl30->msl31	10842	Microvirus	10841	Microviridae	6703
+msl30->msl31	10842	Microvirus	1910950	Bullavirinae	3870
+msl30->msl31	384642	Enterobacteria phage ID18	1910950	Bullavirinae	2311
+msl30->msl31	384642	Enterobacteria phage ID18	10841	Microviridae	114
+msl30->msl31	10842	Microvirus	1910951	Alpha3microvirus	26
+msl30->msl31	384642	Enterobacteria phage ID18	1910951	Alpha3microvirus	23
+msl30->msl31	374842	Enterobacteria phage G4 clade	10841	Microviridae	19
+msl30->msl31	10662	Myoviridae	1198136	Tevenvirinae	9
+msl30->msl31	196896	unclassified Myoviridae	10662	Myoviridae	5
+msl31->msl32	10841	Microviridae	1910952	G4microvirus	5200
+msl31->msl32	1910951	Alpha3microvirus	10845	Enterobacteria phage St-1	3948
+msl31->msl32	1910950	Bullavirinae	384642	Enterobacteria phage ID18	2311
+msl31->msl32	10841	Microviridae	10845	Enterobacteria phage St-1	1337
+msl31->msl32	384642	Enterobacteria phage ID18	10845	Enterobacteria phage St-1	509
+msl31->msl32	10841	Microviridae	1910950	Bullavirinae	185
+msl31->msl32	10841	Microviridae	384642	Enterobacteria phage ID18	114
+msl31->msl32	384642	Enterobacteria phage ID18	1910950	Bullavirinae	78
+msl31->msl32	196894	unclassified Siphoviridae	1912760	C5virus	20
+msl31->msl32	1910951	Alpha3microvirus	384642	Enterobacteria phage ID18	13

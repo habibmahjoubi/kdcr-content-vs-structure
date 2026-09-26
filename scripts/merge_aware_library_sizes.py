@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""M1 quantification: does treating a taxid as 'existing at snapshot T' only if it (or a
+"""Does treating a taxid as 'existing at snapshot T' only if it (or a
 predecessor id that later merged into it) appears in nodes.dmp(T) change the per-version
 library-size trajectory and the 13-way fixed-library intersection reported in the manuscript?
 

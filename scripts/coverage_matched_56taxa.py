@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""M7: resimulate the 56 positive-control candidates at matched effective coverage (30x)
+"""Resimulate the 56 positive-control candidates at matched effective coverage (30x)
 instead of the original fixed 5,000 read pairs regardless of genome length, decoupling
-genome length from per-base coverage (previously perfectly anti-correlated, rho=-1.00,
-manuscript Sec. 5.4) so the genome-length-vs-misattribution-risk correlation can be tested
+genome length from per-base coverage (previously perfectly anti-correlated, rho=-1.00)
+so the genome-length-vs-misattribution-risk correlation can be tested
 without that confound. Classifies against the existing (unmodified, naive-tagged) MSL39
 ('before') and MSL40 ('after') Kraken2 databases, matching the original panel's design.
 """

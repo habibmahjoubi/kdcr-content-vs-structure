@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Summarize RSV/REO read counts for all 9 KDCR runs across all 5 per-MSL-version Kraken2
 databases, then compute the change in read counts across each real MSL transition and
-compare its magnitude to the previously computed delta_K (P1 test data).
+compare its magnitude to the previously computed delta_K.
 
 IMPORTANT (2026-08-07): counts are matched by STABLE TAXID (cumulative clade count, Kraken2
 report column 2), not by taxon name substring. An earlier name-substring version ("syncytial")

@@ -1,0 +1,29 @@
+comparison	run	sample	reads	reads_with_different_taxid	reads_with_any_output_difference
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352207	RSV neg	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352206	RSV 1e6	2000000	0	1
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352204	RSV 1e5	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352215	RSV 1e4	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352205	RSV 1e3	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352203	RSV 1e2	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352202	RSV 1e1	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352217	MRV neg	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352216	MRV 1e6	2000000	0	1
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352195	MRV 1e5	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352184	MRV 1e4	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352212	MRV 1e3	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352209	MRV 1e2	2000000	0	0
+MSL41 Design 1 vs rebuilt with 2 threads	SRR26352208	MRV 1e1	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352207	RSV neg	2000000	1	1
+Current vs rebuilt with 2 threads	SRR26352206	RSV 1e6	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352204	RSV 1e5	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352215	RSV 1e4	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352205	RSV 1e3	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352203	RSV 1e2	2000000	1	1
+Current vs rebuilt with 2 threads	SRR26352202	RSV 1e1	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352217	MRV neg	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352216	MRV 1e6	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352195	MRV 1e5	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352184	MRV 1e4	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352212	MRV 1e3	2000000	0	1
+Current vs rebuilt with 2 threads	SRR26352209	MRV 1e2	2000000	0	0
+Current vs rebuilt with 2 threads	SRR26352208	MRV 1e1	2000000	0	0

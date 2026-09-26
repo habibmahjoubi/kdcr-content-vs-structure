@@ -1,0 +1,209 @@
+# Remote NCBI BLAST (megablast, nt), RID BDRR2BS4014, 25 September 2026. Queries: target_reads_queried.fa (both mates).
+# SRR26352202.1728701 = RSV 1e1 read; SRR26352206.* = RSV 1e6 reads (comparison); SRR26352205.949940, SRR26352204.449223, SRR26352217.1949954 = spurious RSV-node reads; SRR26352216.14021/404055 = spurious MRV-node reads (current DB).
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+
+BLASTN 2.17.0+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and
+Webb Miller (2000), "A greedy algorithm for aligning DNA
+sequences", J Comput Biol 2000; 7(1-2):203-14.
+
+
+Reference for database indexing: Aleksandr Morgulis, George
+Coulouris, Yan Raytselis, Thomas L. Madden, Richa Agarwala,
+Alejandro A. Schaffer (2008), "Database Indexing for
+Production MegaBLAST Searches", Bioinformatics 24:1757-1764.
+
+
+RID: BDRR2BS4014
+
+
+Database: Core nucleotide BLAST database
+           131,070,239 sequences; 1,081,933,534,067 total letters
+Query= SRR26352202.1728701_1
+
+Length=98
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+PQ348818.1 Human respiratory syncytial virus A isolate RSVLO51...  180     4e-41  100%      
+PP151367.1 Human respiratory syncytial virus A isolate KW/RSVA...  180     4e-41  100%      
+OP242457.1 Mutant Respiratory syncytial virus clone RSV_NS1-Bi...  180     4e-41  100%      
+MK733767.1 Human respiratory syncytial virus MaxB, complete ge...  180     4e-41  100%      
+MG642075.1 Human respiratory syncytial virus A strain RSVA/Hom...  180     4e-41  100%      
+Query= SRR26352202.1728701_2
+
+Length=99
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+PQ348818.1 Human respiratory syncytial virus A isolate RSVLO51...  183     3e-42  100%      
+PP151367.1 Human respiratory syncytial virus A isolate KW/RSVA...  183     3e-42  100%      
+MK733767.1 Human respiratory syncytial virus MaxB, complete ge...  183     3e-42  100%      
+MG642075.1 Human respiratory syncytial virus A strain RSVA/Hom...  183     3e-42  100%      
+MF737204.1 Synthetic Human respiratory syncytial virus A strai...  183     3e-42  100%      
+Query= SRR26352206.209173_1
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+PQ348818.1 Human respiratory syncytial virus A isolate RSVLO51...  185     8e-43  100%      
+OP242457.1 Mutant Respiratory syncytial virus clone RSV_NS1-Bi...  185     8e-43  100%      
+MK733767.1 Human respiratory syncytial virus MaxB, complete ge...  185     8e-43  100%      
+MK733766.1 Human respiratory syncytial virus MaxA, complete ge...  185     8e-43  100%      
+MG642075.1 Human respiratory syncytial virus A strain RSVA/Hom...  185     8e-43  100%      
+Query= SRR26352206.209173_2
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+PQ348818.1 Human respiratory syncytial virus A isolate RSVLO51...  185     8e-43  100%      
+OP242457.1 Mutant Respiratory syncytial virus clone RSV_NS1-Bi...  185     8e-43  100%      
+OK649594.1 Human respiratory syncytial virus A strain HRSV/A/A...  185     8e-43  100%      
+OK649591.1 Human respiratory syncytial virus A strain HRSV/A/A...  185     8e-43  100%      
+MK733767.1 Human respiratory syncytial virus MaxB, complete ge...  185     8e-43  100%      
+Query= SRR26352206.617050_1
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+PQ348818.1 Human respiratory syncytial virus A isolate RSVLO51...  185     8e-43  100%      
+PV083462.1 Human respiratory syncytial virus A isolate RSV/A/2...  185     8e-43  100%      
+OP242457.1 Mutant Respiratory syncytial virus clone RSV_NS1-Bi...  185     8e-43  100%      
+OP242455.1 Mutant Respiratory syncytial virus clone RSV_mKate2...  185     8e-43  100%      
+MK733767.1 Human respiratory syncytial virus MaxB, complete ge...  185     8e-43  100%      
+Query= SRR26352206.617050_2
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+PQ348818.1 Human respiratory syncytial virus A isolate RSVLO51...  185     8e-43  100%      
+PV083462.1 Human respiratory syncytial virus A isolate RSV/A/2...  185     8e-43  100%      
+OP242457.1 Mutant Respiratory syncytial virus clone RSV_NS1-Bi...  185     8e-43  100%      
+OP242455.1 Mutant Respiratory syncytial virus clone RSV_mKate2...  185     8e-43  100%      
+MK733767.1 Human respiratory syncytial virus MaxB, complete ge...  185     8e-43  100%      
+Query= SRR26352205.949940_1
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+AC107763.25 Mus musculus chromosome 5, clone RP23-180F3, compl...  95.3    1e-15  85%       
+AC117573.9 Mus musculus chromosome 3, clone RP23-30D1, complet...  69.4    9e-08  87%       
+AC121772.2 Mus musculus BAC clone RP23-349L11 from 3, complete...  69.4    9e-08  87%       
+AC123073.4 Mus musculus BAC clone RP23-111E4 from 6, complete ...  65.8    1e-06  89%       
+XM_087619851.1 PREDICTED: Rattus norvegicus spermatogenesis as...  63.9    4e-06  89%       
+Query= SRR26352205.949940_2
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+AC107763.25 Mus musculus chromosome 5, clone RP23-180F3, compl...  95.3    1e-15  88%       
+AC117573.9 Mus musculus chromosome 3, clone RP23-30D1, complet...  69.4    9e-08  87%       
+AC121772.2 Mus musculus BAC clone RP23-349L11 from 3, complete...  69.4    9e-08  87%       
+AC123073.4 Mus musculus BAC clone RP23-111E4 from 6, complete ...  65.8    1e-06  89%       
+XM_087619851.1 PREDICTED: Rattus norvegicus spermatogenesis as...  63.9    4e-06  89%       
+Query= SRR26352204.449223_1
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_035438663.1 PREDICTED: Cricetulus griseus putative selectio...  62.1    1e-05  88%       
+XM_035440419.1 PREDICTED: Cricetulus griseus putative selectio...  62.1    1e-05  88%       
+Query= SRR26352204.449223_2
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_035438663.1 PREDICTED: Cricetulus griseus putative selectio...  62.1    1e-05  88%       
+XM_035440419.1 PREDICTED: Cricetulus griseus putative selectio...  62.1    1e-05  88%       
+Query= SRR26352217.1949954_1
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_027432594.2 PREDICTED: Cricetulus griseus uncharacterized p...  108     2e-19  89%       
+Query= SRR26352216.404055_1
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_052718245.1 PREDICTED: Peromyscus californicus insignis his...  91.6    2e-14  87%       
+AC157925.5 Mus musculus chromosome 3, clone RP24-309B18, compl...  89.8    7e-14  90%       
+AC101892.9 Mus musculus chromosome 3, clone RP23-472D12, compl...  89.8    7e-14  90%       
+Query= SRR26352216.404055_2
+
+Length=100
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+XM_052718245.1 PREDICTED: Peromyscus californicus insignis his...  100     3e-17  87%       
+AC157925.5 Mus musculus chromosome 3, clone RP24-309B18, compl...  86.1    9e-13  91%       
+AC101892.9 Mus musculus chromosome 3, clone RP23-472D12, compl...  86.1    9e-13  91%       
+  Database: Core nucleotide BLAST database
+    Posted date:  Sep 14, 2026  1:23 AM
+  Number of letters in database: 1,081,933,534,067
+  Number of sequences in database:  131,070,239
+
+Lambda      K        H
+    1.33    0.621     1.12 
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+Matrix: blastn matrix:1 -2
+Gap Penalties: Existence: 0, Extension: 0
+Number of Sequences: 131070239
+Number of Hits to DB: 0
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 10: 769
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 2734
+Number of HSP's successfully gapped: 2734
+Length of database: 1081933534067
+A: 0
+X1: 13 (25.0 bits)
+X2: 32 (59.1 bits)
+X3: 54 (99.7 bits)
+S1: 13 (25.1 bits)
+
+

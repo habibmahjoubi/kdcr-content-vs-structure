@@ -10,8 +10,9 @@ import os
 import csv
 import openpyxl
 
-BASE = r"C:\Users\PC\Desktop\Data Gouvernance\data\ictv_msl"
-OUT_DIR = r"C:\Users\PC\Desktop\Data Gouvernance\results"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE = os.path.join(ROOT, "data", "ictv_msl")   # ICTV MSL spreadsheets (https://ictv.global/msl)
+OUT_DIR = os.path.join(ROOT, "results")
 
 FILES = {
     29: "ICTV_MSL_2014_MSL29.v4.xls",

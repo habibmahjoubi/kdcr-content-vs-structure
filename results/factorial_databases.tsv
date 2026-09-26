@@ -1,0 +1,7 @@
+database	hash_md5	taxid_bits	capacity
+msl41	26978e78e7ead6af	15	168427885
+current	675c671ecf15e193	15	168431908
+a_msl41content_currenttax	5ea57bce9d684f65	15	168427885
+b_msl41plus1_msl41tax	8eccbc2761a6bd32	15	168431908
+c_msl41_rebuild_2threads	569761d29d463794	15	168427885
+d_current_rebuild_2threads	af8870d7340fe2c4	15	168431908

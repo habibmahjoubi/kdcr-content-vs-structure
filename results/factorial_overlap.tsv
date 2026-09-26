@@ -1,0 +1,16 @@
+database_a	database_b	shared_reads	reads_in_only_one
+msl41 (MSL41 content, MSL41 tree)	current (MSL41+1 content, current tree)	1	63
+msl41 (MSL41 content, MSL41 tree)	a (MSL41 content, current tree)	1	1
+msl41 (MSL41 content, MSL41 tree)	b (MSL41+1 content, MSL41 tree)	1	67
+msl41 (MSL41 content, MSL41 tree)	c (MSL41 rebuilt, 2 threads)	1	1
+msl41 (MSL41 content, MSL41 tree)	d (current rebuilt, 2 threads)	1	67
+current (MSL41+1 content, current tree)	a (MSL41 content, current tree)	2	62
+current (MSL41+1 content, current tree)	b (MSL41+1 content, MSL41 tree)	64	4
+current (MSL41+1 content, current tree)	c (MSL41 rebuilt, 2 threads)	2	62
+current (MSL41+1 content, current tree)	d (current rebuilt, 2 threads)	64	4
+a (MSL41 content, current tree)	b (MSL41+1 content, MSL41 tree)	2	66
+a (MSL41 content, current tree)	c (MSL41 rebuilt, 2 threads)	2	0
+a (MSL41 content, current tree)	d (current rebuilt, 2 threads)	2	66
+b (MSL41+1 content, MSL41 tree)	c (MSL41 rebuilt, 2 threads)	2	66
+b (MSL41+1 content, MSL41 tree)	d (current rebuilt, 2 threads)	68	0
+c (MSL41 rebuilt, 2 threads)	d (current rebuilt, 2 threads)	2	66
